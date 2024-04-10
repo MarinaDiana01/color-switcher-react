@@ -1,0 +1,13 @@
+* {
+  font-family: "Kode Mono", monospace; 
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+:root {
+  --white: #FFFFFF;
+  --semitransparentBlack: rgba(0, 0, 0, 85%);
+  --semitransparentGrey: rgba(255, 255, 255, 40%);
+}
+
